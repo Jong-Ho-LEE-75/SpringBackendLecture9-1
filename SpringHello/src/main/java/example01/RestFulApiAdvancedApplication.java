@@ -1,4 +1,4 @@
-package example01.dto;
+package example01;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
