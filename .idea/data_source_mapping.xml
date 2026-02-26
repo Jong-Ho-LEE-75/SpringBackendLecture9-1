@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/f7344f57-3c2e-444d-bd19-c7bcfb45eb77/console.sql" value="f7344f57-3c2e-444d-bd19-c7bcfb45eb77" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/f7344f57-3c2e-444d-bd19-c7bcfb45eb77/console_1.sql" value="f7344f57-3c2e-444d-bd19-c7bcfb45eb77" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/f7344f57-3c2e-444d-bd19-c7bcfb45eb77/console_2.sql" value="f7344f57-3c2e-444d-bd19-c7bcfb45eb77" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/f7344f57-3c2e-444d-bd19-c7bcfb45eb77/console_3.sql" value="f7344f57-3c2e-444d-bd19-c7bcfb45eb77" />
+    <file url="das://f7344f57-3c2e-444d-bd19-c7bcfb45eb77/database/menudb/schema/public/table/user_foreignkey2.sql" value="f7344f57-3c2e-444d-bd19-c7bcfb45eb77" />
+  </component>
+</project>
